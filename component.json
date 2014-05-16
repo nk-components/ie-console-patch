@@ -1,0 +1,11 @@
+{
+  "name": "ie-console-patch",
+  "repo": "nk-components/ie-console-patch",
+  "description": "Protection against any stray console.log causing JavaScript errors in older browsers",
+  "version": "0.0.1",
+  "keywords": ["ie", "console.log", "console"],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
